@@ -98,7 +98,7 @@ Conforme informado no site [refactoring.guru](https://refactoring.guru/pt-br/des
 Este projeto tem o objetivo de cumprir com os requisitos solicitados pela disiciplina de Engenharia de Software II. 
 > Escolher um design pattern e aprofundar nossos conhecimentos sobre ele, montando um material de consulta aqui no GitHub.
 
-Link da apresentação: [Video de apresentação](https://github.com/paulosisti/Singleton/blob/master/Video/Apresentacao.mp4)
+Link do vídeo de apresentação: [Video de apresentação](https://github.com/paulosisti/Singleton/blob/master/Video/Apresentacao.mp4)
 
 ## Como contribuir
 Gostaria de contribuir para a evolução deste trabalho, siga os seguintes passos:
